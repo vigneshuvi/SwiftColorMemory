@@ -1,7 +1,7 @@
 [![Language Swift 3](https://img.shields.io/badge/Language-Swift%203-orange.svg)](https://developer.apple.com/swift)
 
 # Colour Memory
-A simple iOS game to check your memory power and written in Swift 3.0 
+A simple iOS game to check your memory power and app is written in Swift 3.0 
 
 ## Features
 
